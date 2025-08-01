@@ -4,7 +4,7 @@ I'm a passionate software developer who loves exploring the world of programming
 Currently focused on *web development*, building interactive and responsive websites using HTML, CSS, and JavaScript.  
 I also have a background in *Dart, **C, and **Data Structures*, which help strengthen my problem-solving skills.  
 
-<img src="[file:///C:/Users/elafi/Desktop/WhatsApp%20Image%202025-08-01%20at%2017.43.31.jpeg](https://github.com/elaf01/elaf01/blob/main/WhatsApp%20Image%202025-08-01%20at%2017.43.31.jpeg)" width="400"/>
+<img src="(https://github.com/elaf01/elaf01/blob/main/WhatsApp%20Image%202025-08-01%20at%2017.43.31.jpeg)" width="400"/>
 
 🚀 *Future Goal*: Become a full-stack developer and master advanced programming concepts & tools.
 
