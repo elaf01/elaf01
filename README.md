@@ -4,6 +4,8 @@ I'm a passionate software developer who loves exploring the world of programming
 Currently focused on *web development*, building interactive and responsive websites using HTML, CSS, and JavaScript.  
 I also have a background in *Dart, **C, and **Data Structures*, which help strengthen my problem-solving skills.  
 
+<img src="file:///C:/Users/elafi/Desktop/WhatsApp%20Image%202025-08-01%20at%2017.43.31.jpeg" width="400"/>
+
 🚀 *Future Goal*: Become a full-stack developer and master advanced programming concepts & tools.
 
 ---
@@ -26,10 +28,9 @@ I also have a background in *Dart, **C, and **Data Structures*, which help stren
 [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elaf-profile](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BeAuZ2AeZTweR4oap9NxXoQ%3D%3D))  
 [![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elaf-instagram](https://www.instagram.com/programmer.elaf?igsh=aXRueml5bGJ4YzRu))
 
-
-<img src="file:///C:/Users/elafi/Desktop/WhatsApp%20Image%202025-08-01%20at%2017.43.31.jpeg" width="400"/>
-
 ---
 
 ## 💡 Fun Fact:
 I believe that learning never stops, and I enjoy turning challenges into opportunities to grow as a developer.
+
+
