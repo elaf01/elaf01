@@ -32,7 +32,7 @@ I also have a background in *Dart, **C, and **Data Structures*, which help stren
 
 ## 💡 Fun Fact:
 I believe that learning never stops, and I enjoy turning challenges into opportunities to grow as a developer.
-
+---------
 
 🎓 Flutter Development Course Graduation Certificate 🚀
 
