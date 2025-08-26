@@ -36,7 +36,7 @@ I believe that learning never stops, and I enjoy turning challenges into opportu
 
 🎓 Flutter Development Course Graduation Certificate 🚀
 
-<img src= "https://github.com/elaf01/elaf01/blob/main/123.jpeg  " hieght="300" weight="500" />
+<img src= "https://github.com/elaf01/elaf01/blob/main/123.jpeg  " hieght="300" width="500" />
 
 
 
